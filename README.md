@@ -68,13 +68,3 @@ Gérer le chargement asynchrone des produits et implémenter la pagination.
 
 ---
 
-## **Conclusion**
-Ce TP a permis de mettre en pratique les concepts fondamentaux de React, notamment les Hooks (`useState`, `useEffect`, `useContext`) et la création de Hooks personnalisés. Chaque exercice a été documenté avec des explications, des extraits de code et des captures d'écran.
-
----
----
-
-
-
----
-
